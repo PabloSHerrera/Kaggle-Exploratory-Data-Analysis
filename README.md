@@ -1,78 +1,73 @@
-# Proyecto 2 – Análisis Exploratorio de Datos
+# Project 2 – Exploratory Data Analysis
 
 **CC3084 – Data Science**
-Universidad del Valle de Guatemala – Semestre II, 2025
+Universidad del Valle de Guatemala – Semester II, 2025
 
-## Descripción
+## Overview
 
-Buscamos desarrollar un **Análisis Exploratorio de Datos (EDA)** sobre un dataset proveniente de un reto de Kaggle, siguiendo las etapas de:
+This project develops an **Exploratory Data Analysis (EDA)** on a dataset from a Kaggle challenge, following these stages:
 
-1. Planteamiento inicial del problema.
-2. Investigación preliminar.
-3. Preprocesamiento de datos.
-4. Análisis exploratorio (estadística descriptiva, visualizaciones, correlaciones, valores atípicos, etc.).
-5. Conclusiones y hallazgos principales.
+1. Problem definition
+2. Preliminary research
+3. Data preprocessing
+4. Exploratory analysis (descriptive statistics, visualizations, correlations, outliers, etc.)
+5. Conclusions and key findings
 
-El análisis sirve como base para fases posteriores de modelado predictivo.
-
----
-
-## Objetivos del Proyecto
-
-* **Objetivo General**
-  Realizar un análisis exploratorio detallado del dataset seleccionado para comprender la estructura de los datos, identificar patrones, detectar anomalías y establecer bases sólidas para modelos de Machine Learning.
-
-* **Objetivos Específicos**
-
-1. Describir el contexto y el problema científico relacionado al reto.
-2. Implementar un proceso de limpieza y preprocesamiento de los datos.
-3. Analizar las variables numéricas y categóricas mediante estadísticas y visualizaciones.
-4. Identificar correlaciones, valores faltantes y atípicos relevantes.
-5. Redactar hallazgos con implicaciones para el modelado posterior.
+The analysis serves as the foundation for subsequent predictive modeling phases.
 
 ---
 
+## Project Objectives
 
-## Requerimientos
+**General Objective**
+Perform a detailed exploratory analysis of the selected dataset to understand its structure, identify patterns, detect anomalies, and establish a solid foundation for Machine Learning models.
 
-Para ejecutar el proyecto se recomienda crear un entorno virtual y luego instalar las dependencias:
+**Specific Objectives**
+
+1. Describe the context and the scientific problem behind the challenge.
+2. Implement a data cleaning and preprocessing pipeline.
+3. Analyze numerical and categorical variables through statistics and visualizations.
+4. Identify relevant correlations, missing values, and outliers.
+5. Document findings and their implications for later modeling.
+
+---
+
+## Requirements
+
+It is recommended to create a virtual environment and then install the dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Librerías principales:
+Main libraries:
 
 * `numpy`
 * `pandas`
 * `matplotlib`
 * `seaborn`
 * `scipy`
-* `scikit-learn` (para análisis adicional)
+* `scikit-learn` (for additional analysis)
 
 ---
 
-## Ejecución
+## How to Run
 
-1. Clonar el repositorio:
+1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/<usuario>/Proyecto-2-DS-main.git](https://github.com/PabloSHerrera/Proyecto-2-DS.git)
-   cd Proyecto-2-DS-main
-   ```
-2. Abrir los notebooks
-3. Ejecutar los pasos de preprocesamiento y análisis exploratorio.
+```bash
+   git clone https://github.com/PabloSHerrera/Proyecto-2-DS.git
+   cd Proyecto-2-DS
+```
+2. Open the notebooks.
+3. Run the preprocessing and exploratory analysis steps.
 
 ---
 
-## Referencias
+## References
 
 * [Kaggle Competitions](https://www.kaggle.com/competitions)
-* [Cómo usar Colab con GitHub](https://medium.com/analytics-vidhya/how-to-use-google-colab-with-github-via-google-drive-68efb23a42d)
 
-## Autores
+## Authors
 
-Michelle Mejía
-Silvia Illescas
-Pablo Herrera
-Emilio Reyes
+Michelle Mejía · Silvia Illescas · Pablo Herrera · Emilio Reyes
