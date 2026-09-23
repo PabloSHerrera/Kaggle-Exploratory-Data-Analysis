@@ -56,8 +56,8 @@ Main libraries:
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/PabloSHerrera/Proyecto-2-DS.git
-   cd Proyecto-2-DS
+   git clone https://github.com/PabloSHerrera/Kaggle-Exploratory-Data-Analysis.git
+   cd Kaggle-Exploratory-Data-Analysis
 ```
 2. Open the notebooks.
 3. Run the preprocessing and exploratory analysis steps.
